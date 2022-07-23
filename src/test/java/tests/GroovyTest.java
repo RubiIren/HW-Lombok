@@ -11,7 +11,7 @@ public class GroovyTest {
 
 
     @Test
-    void testListUser(){
+    void testListUser() {
         given()
                 .spec(request)
                 .when()
